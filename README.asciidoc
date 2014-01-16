@@ -9,3 +9,5 @@ This is important
 == Sub-title
 
 This is less important
+
+:toc: right

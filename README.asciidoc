@@ -1,13 +1,17 @@
+Ubertitle
+=========
+:toc:
+:icons:
+:numbered:
+
+bla bla
+
 Let's see what it can do
 
-:toc:
+Title
+-----
 
-= Title
+foru
 
-This is important
+one two
 
-== Sub-title
-
-This is less important
-
-:toc: right

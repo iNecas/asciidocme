@@ -7,7 +7,9 @@ Stuart Rackham <srackham@gmail.com>
 :numbered:
 :website: http://www.methods.co.nz/asciidoc/
 
+
 AsciiDoc is a text document format for writing notes, documentation,
+
 articles, books, ebooks, slideshows, web pages, blogs and UNIX man
 pages.  AsciiDoc files can be translated to many formats including
 HTML, PDF, EPUB, man page.  AsciiDoc is highly configurable: both the

@@ -5,6 +5,7 @@ Ubertitle
 :numbered:
 
 bla bla
+:toc:
 
 Let's see what it can do
 
